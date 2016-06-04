@@ -1,0 +1,8 @@
+#encoding UTF-8
+Station : WMR200 - Weewx - LGP - Raphael CHOCHON pour l'Association Nice Meteo 06
+Time : $current.dateTime.format("%H:%M")
+Temp : $current.outTemp.raw  .
+Rain : $day.rain.sum
+Wind : $current.windSpeed  .
+Pres : $current.barometer  .
+Wind : ($current.windDir.ordinal_compass)  .

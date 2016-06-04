@@ -1,0 +1,7 @@
+Station : WMR200 - Weewx - Nice Pessicart - Raphael CHOCHON pour l'Association Nice Meteo 06
+Time : 14:34
+Temp : 17.1  .
+Rain : 0,0 mm
+Wind : 9 km/h  .
+Pres : 1020,4 hPa  .
+Wind : (SSW)  .
