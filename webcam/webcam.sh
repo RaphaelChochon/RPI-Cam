@@ -7,7 +7,8 @@ cd /home/pi/webcam
 raspistill --output image.jpg
 
 # On exécute le script data.sh
-sudo ./data_ftp.sh
+#sudo ./data_copy.sh
+#sudo ./data_ftp.sh
 
 # On attend 20 secondes pour être sur qu'on a bien récup le fichier txt
 sleep 20s
