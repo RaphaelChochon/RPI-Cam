@@ -5,7 +5,7 @@
 ### 0 - Objectif
 Le but est de pouvoir prendre une photo avec une PiCam sur une Raspberry Pi, pour ensuite lui ajouter quelques données de notre station météo, elle même gérée par Weewx sur la même Raspberry Pi, ou sur une autre.
 <br><br>
-En ce qui concerne la génération du fichier ``data.txt`` par Weewx, vous trouverez le template à mettre en place du côté de Weewx avec une courte explication pour la configuration à cette adresse : https://github.com/RaphaelChochon/RPI-Weewx
+En ce qui concerne la génération du fichier ``data.txt`` par Weewx, vous trouverez le template à mettre en place du côté de Weewx avec une courte explication pour la configuration à cette adresse : https://github.com/RaphaelChochon/RPI-Weewx#création-du-fichier-datatxt-pour-publication-dune-webcam
 <br><br>
 Je vous invite d'abord à parcourir le tuto original [du site Épinglé !](http://www.epingle.info/?p=3070) afin de mieux comprendre. Si vous ne possédez pas de station météo perso, vous pouvez insérer les données d'une station METAR proche. Dans ce cas la, se référer au tuto précédemment cité.
 <br><br>
