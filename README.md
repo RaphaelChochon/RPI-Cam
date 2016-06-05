@@ -32,13 +32,13 @@ On va récupérer les scripts présents ici :
 
 ```
 	cd /home/pi
-	wget https://github.com/RaphaelChochon/RPI-PiCam/archive/master.zip
-	unzip master.zip
+	wget https://github.com/RaphaelChochon/RPI-PiCam/archive/v1.0.zip
+	unzip RPI-PiCam-1.0.zip
 ```
 
 Et on les déplace:
 ```
-	cp -r RPI-PiCam-master/webcam/ /home/pi/webcam
+	cp -r RPI-PiCam-1.0/webcam/ /home/pi/webcam
 ```
 
 Si tout va bien, on retrouve nos scripts dans le dossier ``/home/pi/webcam``
