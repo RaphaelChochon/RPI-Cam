@@ -81,7 +81,7 @@ while [ "$1" != "" ]; do
 			-gravity NorthEast -pointsize 45 -fill white -annotate +$pointsize+55 "Conditions locales : $temp °C | $wind km/h $wind2 | $hpa hPa | Pluie auj : $rain mm | MAJ $time_data"  \
 			-gravity NorthWest -pointsize 55 -fill white -annotate +10+10 "Le nom de ma station - L'altitude de ma station - Mon numéro de dpt"  \
 			-gravity NorthWest -pointsize 45 -fill white -annotate +10+55 "Association Nice Météo 06 - www.nicemeteo.fr"  \
-			-quality 75 \
+			-quality 95 \
 			"viewcam.jpg"
 
 		shift
