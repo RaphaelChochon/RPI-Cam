@@ -14,6 +14,7 @@ pwd
 bin
 # Ce chemin concerne le serveur distant auquel on est en train de se connecter
 cd /web/webcam
-put viewcam.jpg
+put viewcam_temp.jpg
+rename viewcam_temp.jpg viewcam.jpg
 quit
 END_SCRIPT
